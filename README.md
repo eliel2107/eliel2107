@@ -16,4 +16,4 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Olá, me chamo Eliel tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas meu foco é me tornar um programador Back-End, atualmente estou desenvolvendo habilidades em Front-En
+Olá, me chamo Eliel tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas meu foco é me tornar um programador Back-End, atualmente estou desenvolvendo habilidades em Front-End
