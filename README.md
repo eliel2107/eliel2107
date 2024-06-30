@@ -35,7 +35,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 
-Olá, me chamo Eliel tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas meu foco é me tornar um programador Back-End, atualmente estou desenvolvendo habilidades em Front-End 
+Olá, me chamo Eliel tenho 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas meu foco é me tornar um programador Back-End, atualmente estou desenvolvendo habilidades em Front-End 
 
 
 
