@@ -35,7 +35,7 @@
 
 
 
-Olá, me chamo Eliel tenho 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas meu foco é me tornar um programador Back-End, atualmente estou desenvolvendo habilidades em Front-End 
+Olá, sou Eliel Mesquita Cunha, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na área de TI como Analista de Suporte, mas estou em busca de uma recolocação de carreira como desenvolvedor Back-End. Tenho conhecimento básico em Front-End, o que complementa minhas habilidades, e estou focado em criar e apresentar projetos robustos e inovadores na área de Back-End. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente 
 
 
 
