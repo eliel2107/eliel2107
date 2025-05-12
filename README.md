@@ -54,11 +54,43 @@
 ## 🔭 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/eliel2107/DesafioConversorDeMoedas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=DesafioConversorDeMoedas&theme=tokyonight" alt="Conversor de Moedas"/>
+  <a href="https://github.com/eliel2107/ProjetoIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=ProjetoIA&theme=tokyonight" alt="Projeto IA"/>
   </a>
-  <!-- Você pode adicionar mais projetos aqui quando tiver -->
+  <a href="https://github.com/eliel2107/Challenge-amigo-secreto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-amigo-secreto&theme=tokyonight" alt="Amigo Secreto"/>
+  </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/eliel2107/Finan-as">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Finan-as&theme=tokyonight" alt="Finanças"/>
+  </a>
+  <a href="https://github.com/eliel2107/DesafioDioSuzanoPython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=DesafioDioSuzanoPython&theme=tokyonight" alt="Desafio DIO Suzano Python"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/eliel2107/ChallengeOneJavaConversorMoedas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=ChallengeOneJavaConversorMoedas&theme=tokyonight" alt="Conversor de Moedas Java"/>
+  </a>
+  <a href="https://github.com/eliel2107/DesafioConversorDeMoedas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=DesafioConversorDeMoedas&theme=tokyonight" alt="Desafio Conversor de Moedas"/>
+  </a>
+</div>
+
+### Descrição dos Projetos
+
+- **ProjetoIA**: Interface interativa desenvolvida com Streamlit e LangChain em Python, permitindo interação com diferentes modelos de IA.
+
+- **Challenge Amigo Secreto**: Aplicação web para sorteio de amigo secreto desenvolvida com JavaScript, HTML e CSS.
+
+- **Finanças**: Sistema de controle financeiro para gerenciamento de receitas e despesas.
+
+- **Desafio DIO Suzano Python**: Projeto desenvolvido durante bootcamp da Digital Innovation One em parceria com Suzano.
+
+- **Conversor de Moedas**: Aplicação Java que realiza conversão entre diferentes moedas utilizando taxas de câmbio em tempo real via API.
 
 ## 📚 Atualmente Aprendendo
 
@@ -75,6 +107,15 @@
 - Desenvolver um portfólio robusto de aplicações Back-End
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue" alt="Profile Views"/>
+  <p>💼 Aberto a oportunidades de desenvolvimento Back-End</p>
+  
+  ![Snake animation](https://github.com/eliel2107/eliel2107/blob/output/github-contribution-grid-snake.svg)
+</div>
+```
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
