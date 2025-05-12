@@ -108,19 +108,8 @@
   <img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue" alt="Profile Views"/>
   <p>💼 Aberto a oportunidades de desenvolvimento Back-End</p>
   
-  ![Snake animation](https://github.com/eliel2107/eliel2107/blob/output/github-contribution-grid-snake.svg)
-</div>
-```
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-</div>
-
-###
 
  
 
