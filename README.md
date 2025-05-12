@@ -43,7 +43,6 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Most Used Languages"/>
 </div>
 
@@ -74,9 +73,6 @@
 <div align="center">
   <a href="https://github.com/eliel2107/ChallengeOneJavaConversorMoedas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=ChallengeOneJavaConversorMoedas&theme=tokyonight" alt="Conversor de Moedas Java"/>
-  </a>
-  <a href="https://github.com/eliel2107/DesafioConversorDeMoedas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=DesafioConversorDeMoedas&theme=tokyonight" alt="Desafio Conversor de Moedas"/>
   </a>
 </div>
 
@@ -126,13 +122,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
-</div>
-
-###
-
-<br clear="both">
  
 
 
