@@ -23,14 +23,8 @@ Minha experiência como Analista de Suporte me deu uma visão aprofundada sobre 
 <p></p>
 <p></p>
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZDk4ZDM0ZDRkYzQ3MzM1ZjI5OGNkMzA4MzA2ZWZlMDk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="center" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZDk4ZDM0ZDRkYzQ3MzM1ZjI5OGNkMzA4MzA2ZWZlMDk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-
-
-
-
-<p></p>
-<p></p>
 ## 🚀 Habilidades e Ferramentas
 
 #### Linguagens & Frameworks
@@ -48,6 +42,7 @@ Minha experiência como Analista de Suporte me deu uma visão aprofundada sobre 
 #### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
