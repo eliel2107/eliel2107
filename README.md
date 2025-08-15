@@ -20,8 +20,17 @@ Minha experiência como Analista de Suporte me deu uma visão aprofundada sobre 
 
 **Áreas de Foco**: Desenvolvimento Back-End, Arquitetura de Software e Criação de APIs.
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZDk4ZDM0ZDRkYzQ3MzM1ZjI5OGNkMzA4MzA2ZWZlMDk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<p></p>
+<p></p>
 
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmZDk4ZDM0ZDRkYzQ3MzM1ZjI5OGNkMzA4MzA2ZWZlMDk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+
+
+
+
+<p></p>
+<p></p>
 ## 🚀 Habilidades e Ferramentas
 
 #### Linguagens & Frameworks
@@ -50,8 +59,8 @@ Minha experiência como Analista de Suporte me deu uma visão aprofundada sobre 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" alt="Most Used Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliel2107&theme=tokyonight&hide_border=true" height="180em" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="220em" alt="Most Used Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliel2107&theme=tokyonight&hide_border=true" height="220em" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🔭 Projetos em Destaque
