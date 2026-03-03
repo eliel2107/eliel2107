@@ -63,7 +63,7 @@ Docker • Git • GitHub • Postman
 
 ### ForumHub API
 
-[![ForumHub API](https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-ApiRestForumHub&theme=tokyonight)](https://github.com/eliel2107/Challenge-ApiRestForumHub)
+<a href="https://github.com/eliel2107/Challenge-ApiRestForumHub">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-ApiRestForumHub&theme=tokyonight"/>
 </a>
 
