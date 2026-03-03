@@ -64,9 +64,12 @@ Atualmente foco no desenvolvimento de **APIs REST, arquitetura de software e mic
 
 ![Java](https://img.shields.io/badge/Java-API%20REST-orange?logo=java)
 
-API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em fórum.
+API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em um fórum.
 
-🔗 https://github.com/eliel2107/Challenge-ApiRestForumHub
+A aplicação permite criação, listagem, atualização e exclusão de tópicos, seguindo boas práticas de desenvolvimento com **Spring Boot e arquitetura em camadas**.
+
+🔗 Repositório  
+https://github.com/eliel2107/Challenge-ApiRestForumHub
 
 ---
 
@@ -74,9 +77,12 @@ API REST desenvolvida durante a especialização backend da **Oracle + Alura** p
 
 ![Python](https://img.shields.io/badge/Python-Microservices-blue?logo=python)
 
-Projeto da pós-graduação em Engenharia de Software focado na implementação de arquitetura baseada em microsserviços.
+Projeto desenvolvido na pós-graduação em **Engenharia de Software (PUC-Rio)** com foco na implementação de **arquitetura baseada em microsserviços**.
 
-🔗 https://github.com/eliel2107/MVP-microservicos
+O sistema simula comunicação entre serviços independentes e organização modular da aplicação.
+
+🔗 Repositório  
+https://github.com/eliel2107/MVP-microservicos
 
 ---
 
@@ -84,9 +90,12 @@ Projeto da pós-graduação em Engenharia de Software focado na implementação 
 
 ![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
 
-Backend desenvolvido para aplicação MVP acadêmica.
+Backend desenvolvido para aplicação MVP acadêmica, responsável pelo processamento de dados e disponibilização de endpoints para consumo do frontend.
 
-🔗 https://github.com/eliel2107/MVP-BackEnd
+O projeto explora organização de código backend e integração entre camadas da aplicação.
+
+🔗 Repositório  
+https://github.com/eliel2107/MVP-BackEnd
 
 ---
 
@@ -94,9 +103,12 @@ Backend desenvolvido para aplicação MVP acadêmica.
 
 ![Python](https://img.shields.io/badge/Python-Frontend-blue?logo=python)
 
-Interface desenvolvida para integração com backend do projeto MVP.
+Interface desenvolvida para consumo da API do projeto MVP.
 
-🔗 https://github.com/eliel2107/MVP-FrontEnd
+Responsável pela interação com o usuário e comunicação com os endpoints disponibilizados pelo backend.
+
+🔗 Repositório  
+https://github.com/eliel2107/MVP-FrontEnd
 
 ---
 
@@ -104,11 +116,12 @@ Interface desenvolvida para integração com backend do projeto MVP.
 
 ![Python](https://img.shields.io/badge/Python-AI%20Application-blue?logo=python)
 
-Aplicação interativa utilizando **Streamlit e LangChain** para interação com modelos de IA.
+Aplicação interativa construída com **Streamlit e LangChain** para explorar interação com modelos de linguagem.
 
-🔗 https://github.com/eliel2107/ProjetoIA
+Permite realizar consultas e visualizar respostas geradas por modelos de IA em uma interface simples e funcional.
 
----
+🔗 Repositório  
+https://github.com/eliel2107/ProjetoIA
 
 # 📊 Estatísticas GitHub
 
