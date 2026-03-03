@@ -36,33 +36,19 @@ Concluí a especialização **Oracle Next Education (ONE)** focada em desenvolvi
 - Estruturação de aplicações backend
 - Boas práticas de desenvolvimento
 
-Minha experiência anterior como **Analista de Suporte** fortaleceu minha capacidade de diagnóstico de sistemas, resolução de problemas e visão orientada ao usuário — habilidades que aplico na construção de aplicações robustas.
+Minha experiência anterior como **Analista de Suporte** fortaleceu minha capacidade de diagnóstico de sistemas, resolução de problemas e visão orientada ao usuário.
 
-Atualmente foco no desenvolvimento de **APIs escaláveis, arquitetura de software e microsserviços.**
+Atualmente foco no desenvolvimento de **APIs escaláveis e arquitetura de microsserviços.**
 
 ---
 
 # 🧰 Stack Tecnológica
 
-### 💻 Back-End
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,mongodb,docker,git,github,postman)](https://skillicons.dev)
 
-### 🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ DevOps & Ferramentas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
@@ -74,80 +60,69 @@ Atualmente foco no desenvolvimento de **APIs escaláveis, arquitetura de softwar
 - SOLID
 - Integração com APIs externas
 - Tratamento de exceções
-- Organização em camadas
+- Arquitetura em camadas
 
 ---
 
 # 📌 Projetos em Destaque
 
-### 🔹 ForumHub API (Java + Spring Boot)
+### ☕ ForumHub API (Java + Spring Boot)
 
-<a href="https://github.com/eliel2107/Challenge-ApiRestForumHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-ApiRestForumHub&theme=tokyonight"/>
-</a>
+![Java](https://img.shields.io/badge/Java-API%20REST-orange?logo=java)
 
-API REST desenvolvida durante a especialização backend da **Oracle + Alura**, focada na criação de um sistema de fórum com gerenciamento de tópicos.
+API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em um fórum.
 
----
-
-### 🔹 Arquitetura de Microsserviços
-
-<a href="https://github.com/eliel2107/MVP-microservicos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-microservicos&theme=tokyonight"/>
-</a>
-
-Projeto da pós-graduação em Engenharia de Software focado na implementação de arquitetura baseada em microsserviços.
+🔗 https://github.com/eliel2107/Challenge-ApiRestForumHub
 
 ---
 
-### 🔹 MVP Backend
+### 🐍 Arquitetura de Microsserviços
 
-<a href="https://github.com/eliel2107/MVP-BackEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-BackEnd&theme=tokyonight"/>
-</a>
+![Python](https://img.shields.io/badge/Python-Microservices-blue?logo=python)
 
-Backend desenvolvido em Python para aplicação MVP acadêmica.
+Projeto da pós-graduação em Engenharia de Software focado na implementação de **arquitetura baseada em microsserviços**.
+
+🔗 https://github.com/eliel2107/MVP-microservicos
 
 ---
 
-### 🔹 MVP Frontend
+### 🐍 MVP Backend
 
-<a href="https://github.com/eliel2107/MVP-FrontEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-FrontEnd&theme=tokyonight"/>
-</a>
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+
+Implementação backend para aplicação MVP acadêmica.
+
+🔗 https://github.com/eliel2107/MVP-BackEnd
+
+---
+
+### 🐍 MVP Frontend
+
+![Python](https://img.shields.io/badge/Python-Frontend-blue?logo=python)
 
 Interface desenvolvida para integração com backend do projeto MVP.
 
----
-
-### 🔹 Projeto IA
-
-<a href="https://github.com/eliel2107/ProjetoIA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=ProjetoIA&theme=tokyonight"/>
-</a>
-
-Aplicação interativa com **Streamlit e LangChain** para interação com modelos de IA.
+🔗 https://github.com/eliel2107/MVP-FrontEnd
 
 ---
 
-# 📊 Estatísticas GitHub
+### 🤖 ProjetoIA
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-AI%20Application-blue?logo=python)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true"/>
+Aplicação interativa utilizando **Streamlit e LangChain** para interação com modelos de IA.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eliel2107&theme=tokyonight&hide_border=true"/>
-
-</div>
+🔗 https://github.com/eliel2107/ProjetoIA
 
 ---
 
-<div align="center">
+# 🏗️ Arquitetura dos Projetos
 
-<img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue"/>
+### ForumHub API
 
-💼 **Aberto a oportunidades como Desenvolvedor Back-End**
-
-</div>
+```mermaid
+flowchart TB
+Client --> Controller
+Controller --> Service
+Service --> Repository
+Repository --> Database
