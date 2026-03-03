@@ -15,99 +15,91 @@
 
 # 👨‍💻 About Me
 
-I’m a **Back-End Developer** with a degree in **Systems Analysis and Development** and currently pursuing a **Software Engineering postgraduate program at PUC-Rio**.
+Back-End developer with a degree in **Systems Analysis and Development** and currently pursuing a **Software Engineering postgraduate program at PUC-Rio**.
 
-I completed the **Oracle Next Education Backend Specialization (ONE)** focused on **Java and Spring Boot**, where I developed strong skills in:
+I completed the **Oracle Next Education Backend Specialization**, focused on **Java and Spring Boot**.
 
-- REST API development
-- Object-Oriented Programming
-- API integrations
+My work focuses on:
+
+- REST APIs
 - Backend architecture
-- Clean code practices
+- Microservices
+- API integrations
 
-My previous experience as a **Support Analyst** strengthened my troubleshooting skills, system diagnostics, and user-focused mindset.
-
-Currently focused on building **scalable APIs and microservices architectures.**
+Previously worked as a **Support Analyst**, developing strong troubleshooting and system diagnostics skills.
 
 ---
 
 # 🧰 Tech Stack
 
-### Back-End
+<div align="center">
 
-Java • Spring Boot • Python • Django
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,mongodb,docker,git,github,postman)](https://skillicons.dev)
 
-### Databases
-
-PostgreSQL • MySQL • MongoDB
-
-### Tools
-
-Docker • Git • GitHub • Postman
+</div>
 
 ---
 
-# 🏗️ Concepts I Apply
+# 🧠 Concepts I Apply
 
 - REST APIs
-- Microservices Architecture
-- Clean Code
-- SOLID
+- Microservices architecture
+- Clean code
+- SOLID principles
 - API integrations
-- Exception handling
 - Layered architecture
 
 ---
 
 # 📌 Featured Projects
 
-### ForumHub API
+### ☕ ForumHub API
 
-<a href="https://github.com/eliel2107/Challenge-ApiRestForumHub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-ApiRestForumHub&theme=tokyonight"/>
-</a>
+![Java](https://img.shields.io/badge/Java-REST%20API-orange?logo=java)
 
 REST API built during the **Oracle + Alura backend specialization**.
 
----
-
-### Microservices Architecture
-
-<a href="https://github.com/eliel2107/MVP-microservicos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-microservicos&theme=tokyonight"/>
-</a>
-
-Postgraduate project focused on building a **microservices architecture**.
+🔗 https://github.com/eliel2107/Challenge-ApiRestForumHub
 
 ---
 
-### MVP Backend
+### 🐍 Microservices Architecture
 
-<a href="https://github.com/eliel2107/MVP-BackEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-BackEnd&theme=tokyonight"/>
-</a>
+![Python](https://img.shields.io/badge/Python-Microservices-blue?logo=python)
+
+Postgraduate project implementing **microservices architecture**.
+
+🔗 https://github.com/eliel2107/MVP-microservicos
+
+---
+
+### 🐍 MVP Backend
+
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
 
 Backend implementation for an academic MVP project.
 
----
-
-### MVP Frontend
-
-<a href="https://github.com/eliel2107/MVP-FrontEnd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=MVP-FrontEnd&theme=tokyonight"/>
-</a>
-
-Frontend interface built for integration with the MVP backend.
+🔗 https://github.com/eliel2107/MVP-BackEnd
 
 ---
 
-### AI Project
+### 🐍 MVP Frontend
 
-<a href="https://github.com/eliel2107/ProjetoIA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=ProjetoIA&theme=tokyonight"/>
-</a>
+![Python](https://img.shields.io/badge/Python-Frontend-blue?logo=python)
 
-Interactive application using **Streamlit and LangChain** to work with AI models.
+Frontend interface for integration with the backend.
+
+🔗 https://github.com/eliel2107/MVP-FrontEnd
+
+---
+
+### 🤖 AI Project
+
+![Python](https://img.shields.io/badge/Python-AI%20Application-blue?logo=python)
+
+Interactive application using **Streamlit and LangChain**.
+
+🔗 https://github.com/eliel2107/ProjetoIA
 
 ---
 
