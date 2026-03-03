@@ -28,17 +28,11 @@
 
 Sou desenvolvedor **Back-End** com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Engenharia de Software pela PUC-Rio**.
 
-Concluí a especialização **Oracle Next Education (ONE)** focada em desenvolvimento backend com **Java e Spring Boot**, onde aprofundei conhecimentos em:
-
-- APIs REST
-- Orientação a Objetos
-- Integração com APIs externas
-- Estruturação de aplicações backend
-- Boas práticas de desenvolvimento
+Concluí a especialização **Oracle Next Education (ONE)** focada em desenvolvimento backend com **Java e Spring Boot**.
 
 Minha experiência anterior como **Analista de Suporte** fortaleceu minha capacidade de diagnóstico de sistemas, resolução de problemas e visão orientada ao usuário.
 
-Atualmente foco no desenvolvimento de **APIs escaláveis e arquitetura de microsserviços.**
+Atualmente foco no desenvolvimento de **APIs REST, arquitetura de software e microsserviços.**
 
 ---
 
@@ -52,9 +46,9 @@ Atualmente foco no desenvolvimento de **APIs escaláveis e arquitetura de micros
 
 ---
 
-# 🏗️ Conceitos que aplico
+# 🧠 Conceitos que aplico
 
-- APIs RESTful
+- APIs REST
 - Arquitetura de Microsserviços
 - Clean Code
 - SOLID
@@ -66,11 +60,11 @@ Atualmente foco no desenvolvimento de **APIs escaláveis e arquitetura de micros
 
 # 📌 Projetos em Destaque
 
-### ☕ ForumHub API (Java + Spring Boot)
+### ☕ ForumHub API
 
 ![Java](https://img.shields.io/badge/Java-API%20REST-orange?logo=java)
 
-API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em um fórum.
+API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em fórum.
 
 🔗 https://github.com/eliel2107/Challenge-ApiRestForumHub
 
@@ -80,7 +74,7 @@ API REST desenvolvida durante a especialização backend da **Oracle + Alura** p
 
 ![Python](https://img.shields.io/badge/Python-Microservices-blue?logo=python)
 
-Projeto da pós-graduação em Engenharia de Software focado na implementação de **arquitetura baseada em microsserviços**.
+Projeto da pós-graduação em Engenharia de Software focado na implementação de arquitetura baseada em microsserviços.
 
 🔗 https://github.com/eliel2107/MVP-microservicos
 
@@ -90,7 +84,7 @@ Projeto da pós-graduação em Engenharia de Software focado na implementação 
 
 ![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
 
-Implementação backend para aplicação MVP acadêmica.
+Backend desenvolvido para aplicação MVP acadêmica.
 
 🔗 https://github.com/eliel2107/MVP-BackEnd
 
@@ -116,13 +110,24 @@ Aplicação interativa utilizando **Streamlit e LangChain** para interação com
 
 ---
 
-# 🏗️ Arquitetura dos Projetos
+# 📊 Estatísticas GitHub
 
-### ForumHub API
+<div align="center">
 
-```mermaid
-flowchart TB
-Client --> Controller
-Controller --> Service
-Service --> Repository
-Repository --> Database
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eliel2107&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue"/>
+
+💼 **Aberto a oportunidades como Desenvolvedor Back-End**
+
+</div>
