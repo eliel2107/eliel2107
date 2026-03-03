@@ -5,11 +5,11 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Eliel Mesquita Cunha
+# 👋 Hi, I'm Eliel Mesquita Cunha
 
-### 🚀 Desenvolvedor Back-End em transição | APIs REST | Java & Spring Boot | Python
+### 🚀 Back-End Developer (career transition) | REST APIs | Java & Spring Boot | Python
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6E9BF7&center=true&vCenter=true&width=520&lines=Back-End+Developer;APIs+REST+%7C+Arquitetura+de+Software;Java+%26+Spring+Boot+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6E9BF7&center=true&vCenter=true&width=520&lines=Back-End+Developer;REST+APIs+%7C+Software+Architecture;Java+%26+Spring+Boot+%7C+Python)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eliel-mesquita0799/">
@@ -30,18 +30,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Sou profissional de tecnologia com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Engenharia de Software (PUC-Rio)**.  
-Atualmente, estou em transição de carreira para **Desenvolvimento Back-End**, com foco em **APIs REST**, **boas práticas** e **arquitetura de software**.
+I’m a tech professional with a degree in **Systems Analysis and Development** and currently pursuing a post-graduate program in **Software Engineering (PUC-Rio)**.  
+I’m transitioning into **Back-End Development**, focused on building **REST APIs**, applying **best practices**, and improving **software architecture**.
 
-Minha experiência como **Analista de Suporte** fortaleceu minha visão sobre **estabilidade**, **diagnóstico** e **necessidades do usuário final** — e eu aplico isso na construção de soluções mais robustas e orientadas a valor.
+My previous experience as a **Support Analyst** strengthened my ability to work with **system stability**, **troubleshooting**, and **user needs** — which I bring into every project.
 
-**Foco atual:** Java + Spring Boot • Microsserviços • Integração com APIs • DevOps (Docker/CI-CD)
+**Current focus:** Java + Spring Boot • Microservices • API integrations • DevOps (Docker/CI/CD)
 
 ---
 
-## 🧰 Stack & Ferramentas
+## 🧰 Tech Stack
 
 ### 💻 Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,55 +49,53 @@ Minha experiência como **Analista de Suporte** fortaleceu minha visão sobre **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ DevOps & Ferramentas
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🌐 Front-End (base)
+### 🌐 Front-End (basics)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📌 Projetos em destaque
-
-> Dica: nos projetos abaixo, eu priorizo **APIs, lógica de negócio, integração e boas práticas**.
+## 📌 Featured projects
 
 ### 🔹 ProjetoIA
 - **Stack:** Python, Streamlit, LangChain  
-- **O que eu pratiquei:** integração com modelos de IA, organização de fluxo e UI simples  
-🔗 Repositório: https://github.com/eliel2107/ProjetoIA
+- **What I practiced:** AI model integration, flow organization, simple UI  
+Repo: https://github.com/eliel2107/ProjetoIA
 
 ### 🔹 Finanças
-- **Objetivo:** controle financeiro (receitas/despesas)  
-- **O que eu pratiquei:** modelagem e lógica de negócio  
-🔗 Repositório: https://github.com/eliel2107/Finan-as
+- **Goal:** personal finance control (income/expenses)  
+- **What I practiced:** modeling and business logic  
+Repo: https://github.com/eliel2107/Finan-as
 
-### 🔹 Conversor de Moedas (Java)
-- **Stack:** Java + consumo de API  
-- **O que eu pratiquei:** integração com API externa e tratamento de dados  
-🔗 Repositório: https://github.com/eliel2107/ChallengeOneJavaConversorMoedas
+### 🔹 Currency Converter (Java)
+- **Stack:** Java + external API consumption  
+- **What I practiced:** API integration and data handling  
+Repo: https://github.com/eliel2107/ChallengeOneJavaConversorMoedas
 
-### 🔹 Challenge Amigo Secreto
+### 🔹 Secret Santa Challenge
 - **Stack:** JavaScript, HTML, CSS  
-- **O que eu pratiquei:** lógica de sorteio e UI simples  
-🔗 Repositório: https://github.com/eliel2107/Challenge-amigo-secreto
+- **What I practiced:** raffle logic and simple UI  
+Repo: https://github.com/eliel2107/Challenge-amigo-secreto
 
-### 🔹 Desafio DIO Suzano Python
-- **Contexto:** desafios e práticas do bootcamp  
-🔗 Repositório: https://github.com/eliel2107/DesafioDioSuzanoPython
+### 🔹 DIO Suzano Python Challenge
+- **Context:** bootcamp challenges and practice  
+Repo: https://github.com/eliel2107/DesafioDioSuzanoPython
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -110,17 +108,17 @@ Minha experiência como **Analista de Suporte** fortaleceu minha visão sobre **
 
 ---
 
-## 🎯 Objetivos (2025)
+## 🎯 Goals (2025)
 
-- Evoluir em **Back-End com Java e Spring Boot**
-- Aprofundar em **microsserviços** e **arquitetura**
-- Fortalecer **DevOps e CI/CD**
-- Contribuir em **open source**
-- Construir um portfólio robusto com **projetos back-end**
+- Grow as a **Back-End Developer with Java & Spring Boot**
+- Go deeper into **microservices** and **architecture**
+- Improve **DevOps and CI/CD**
+- Contribute to **open source**
+- Build a strong back-end portfolio
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue" alt="Profile Views"/>
-  <p><strong>💼 Aberto a oportunidades como Desenvolvedor Back-End</strong></p>
+  <p><strong>💼 Open to Back-End Developer opportunities</strong></p>
 </div>
