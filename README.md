@@ -26,7 +26,7 @@
 
 # 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Back-End** com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Engenharia de Software pela PUC-Rio**.
+Sou desenvolvedor **Back-End** com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Engenharia de Software pela PUC-Rio**.
 
 Concluí a especialização **Oracle Next Education (ONE)** focada em desenvolvimento backend com **Java e Spring Boot**.
 
