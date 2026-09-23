@@ -34,7 +34,7 @@ Today I work with **REST APIs, layered architecture and microservices**.
 
 <div align="center">
 
-[![My skills](https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,mongodb,docker,git,github,postman&theme=dark)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=java,spring,python,django,nextjs,react,ts,postgres,mysql,mongodb,docker,git,github,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -62,11 +62,22 @@ Layered architecture · Third-party API integration · Exception handling
 
 </div>
 
+### NASA Observations — three services, one system
+
+A microservices MVP: the front end talks **only** to the gateway, and the gateway
+is the only piece that knows NASA's public APIs. Both Java services ship with
+Docker and document their routes in Swagger.
+
+| Service | What it does | Stack |
+| --- | --- | --- |
+| **[API Gateway](https://github.com/eliel2107/mvp-apigateway-nasa-java)** | Single entry point: searches Hubble imagery, serves the Astronomy Picture of the Day (including date ranges) and forwards collection management to the observations service. | Java 21 · Spring Boot 3.3 |
+| **[Observations API](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | Internal microservice that persists collections and items in PostgreSQL, with Flyway migrations. It never calls NASA — only the gateway does. | Java 21 · Spring Boot · PostgreSQL |
+| **[Front-end](https://github.com/eliel2107/mvp-frontend-nasa)** | Interface to search imagery, browse the APOD and build observation collections. | Next.js · React · TypeScript |
+
+### Other projects
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[API Gateway — NASA Observations](https://github.com/eliel2107/mvp-apigateway-nasa-java)** | The single entry point that routes calls to the services. | Java |
-| **[Observations API](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | The domain service sitting behind the gateway. | Java |
-| **[Front-End](https://github.com/eliel2107/MVP-FrontEnd-Nasa)** | The interface that consumes both services above. | Web |
 | **[ForumHub API](https://github.com/eliel2107/Challenge-ApiRestForumHub)** | REST API for forum topics, full CRUD in Spring Boot. | Java · Spring Boot |
 | **[LiterAlura](https://github.com/eliel2107/Challenge-LiterAlura)** | Consumes the Gutendex API to search books and explore authors. | Java |
 | **[MVP Microservices](https://github.com/eliel2107/MVP-microservicos)** | The first take on the architecture, during the PUC-Rio program. | Python |
