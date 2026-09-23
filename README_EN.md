@@ -64,14 +64,14 @@ Layered architecture · Third-party API integration · Exception handling
 
 ### NASA Observations — three services, one system
 
-A microservices MVP: the front end talks **only** to the gateway, and the gateway
-is the only piece that knows NASA's public APIs. Both Java services ship with
-Docker and document their routes in Swagger.
+A microservices MVP: **only the gateway knows NASA's public APIs** — the front
+end never calls them directly. Both Java services ship with Docker and document
+their routes in Swagger.
 
 | Service | What it does | Stack |
 | --- | --- | --- |
 | **[API Gateway](https://github.com/eliel2107/mvp-apigateway-nasa-java)** | Single entry point: searches Hubble imagery, serves the Astronomy Picture of the Day (including date ranges) and forwards collection management to the observations service. | Java 21 · Spring Boot 3.3 |
-| **[Observations API](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | Internal microservice that persists collections and items in PostgreSQL, with Flyway migrations. It never calls NASA — only the gateway does. | Java 21 · Spring Boot · PostgreSQL |
+| **[Observations API](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | Persists collections and items in PostgreSQL, with Flyway migrations. It knows nothing about NASA: it just stores what the user collected. | Java 21 · Spring Boot · PostgreSQL |
 | **[Front-end](https://github.com/eliel2107/mvp-frontend-nasa)** | Interface to search imagery, browse the APOD and build observation collections. | Next.js · React · TypeScript |
 
 ### Other projects

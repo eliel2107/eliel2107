@@ -64,14 +64,14 @@ Arquitetura em camadas · Integração com APIs externas · Tratamento de exceç
 
 ### NASA Observações — três serviços, um sistema
 
-MVP de arquitetura em microsserviços: o front fala **só** com o gateway, e o
-gateway é o único que conhece as APIs públicas da NASA. Os dois serviços em Java
-sobem com Docker e documentam as rotas em Swagger.
+MVP de arquitetura em microsserviços: **só o gateway conhece as APIs públicas da
+NASA** — o front nunca fala com elas direto. Os dois serviços em Java sobem com
+Docker e documentam as rotas em Swagger.
 
 | Serviço | O que faz | Stack |
 | --- | --- | --- |
 | **[API Gateway](https://github.com/eliel2107/mvp-apigateway-nasa-java)** | Porta de entrada única: busca imagens do Hubble, serve a foto astronômica do dia (APOD, inclusive por intervalo de datas) e repassa a gestão de coleções ao serviço de observações. | Java 21 · Spring Boot 3.3 |
-| **[API de Observações](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | Microsserviço interno que persiste coleções e itens em PostgreSQL, com migrations em Flyway. Não fala com a NASA — só com o gateway. | Java 21 · Spring Boot · PostgreSQL |
+| **[API de Observações](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | Persiste coleções e itens em PostgreSQL, com migrations em Flyway. Não conhece a NASA: só guarda o que o usuário colecionou. | Java 21 · Spring Boot · PostgreSQL |
 | **[Front-end](https://github.com/eliel2107/mvp-frontend-nasa)** | Interface para buscar imagens, ver o APOD e montar coleções de observações. | Next.js · React · TypeScript |
 
 ### Outros projetos
