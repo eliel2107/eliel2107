@@ -1,144 +1,87 @@
 <p align="center">
-  <a href="./README.md">🇧🇷 Português</a> • 
-  <a href="./README_EN.md">🇺🇸 English</a> 
-</p>  
-
-<div align="center">
-
-# 👋 Olá, eu sou Eliel Mesquita Cunha
-
-### 🚀 Desenvolvedor Back-End | APIs REST | Java • Spring Boot • Python
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6E9BF7&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot;Python+%7C+APIs+REST;Microsserviços)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eliel-mesquita0799/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eliel.mesquita@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="./README.md">🇧🇷 Português</a> •
+  <a href="./README_EN.md">🇺🇸 English</a>
 </p>
 
-</div>
-
----
-
-# 👨‍💻 Sobre mim
-
-Sou desenvolvedor **Back-End** com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Engenharia de Software pela PUC-Rio**.
-
-Concluí a especialização **Oracle Next Education (ONE)** focada em desenvolvimento backend com **Java e Spring Boot**.
-
-Minha experiência anterior como **Analista de Suporte** fortaleceu minha capacidade de diagnóstico de sistemas, resolução de problemas e visão orientada ao usuário.
-
-Atualmente foco no desenvolvimento de **APIs REST, arquitetura de software e microsserviços.**
-
----
-
-# 🧰 Stack Tecnológica
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,mongodb,docker,git,github,postman)](https://skillicons.dev)
+# Eliel Mesquita Cunha
+
+**Desenvolvedor Back-End** · APIs REST · Java • Spring Boot • Python
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6E9BF7&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%7C+Spring+Boot;Python+%7C+APIs+REST;Arquitetura+de+Microsservi%C3%A7os)](https://github.com/eliel2107)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-mesquita0799/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel.mesquita@gmail.com)
 
 </div>
 
 ---
 
-# 🧠 Conceitos que aplico
+## Sobre mim
 
-- APIs REST
-- Arquitetura de Microsserviços
-- Clean Code
-- SOLID
-- Integração com APIs externas
-- Tratamento de exceções
-- Arquitetura em camadas
+Desenvolvedor **Back-End**, formado em Análise e Desenvolvimento de Sistemas e
+pós-graduado em **Engenharia de Software pela PUC-Rio**. Concluí a especialização
+**Oracle Next Education (ONE)** em backend com Java e Spring Boot.
 
----
+Vim do **suporte técnico**, e isso mudou como eu escrevo código: aprendi a
+diagnosticar sistema quebrado com usuário esperando do outro lado, e trago essa
+cabeça para as decisões de arquitetura.
 
-# 📌 Projetos em Destaque
+Hoje trabalho com **APIs REST, arquitetura em camadas e microsserviços**.
 
-### ☕ ForumHub API
-
-![Java](https://img.shields.io/badge/Java-API%20REST-orange?logo=java)
-
-API REST desenvolvida durante a especialização backend da **Oracle + Alura** para gerenciamento de tópicos em fórum.
-
-Permite criação, listagem, atualização e exclusão de tópicos seguindo boas práticas com **Spring Boot**.
-
-🔗  
-https://github.com/eliel2107/Challenge-ApiRestForumHub
-
----
-
-### ☕ LiterAlura
-
-![Java](https://img.shields.io/badge/Java-API%20Integration-orange?logo=java)
-
-Aplicação Java desenvolvida durante desafio da **Alura + Oracle ONE** que consome a API **Gutendex** para busca de livros.
-
-Permite pesquisar livros, listar autores e explorar dados retornados pela API.
-
-🔗  
-https://github.com/eliel2107/Challenge-LiterAlura
-
----
-
-### 🐍 Arquitetura de Microsserviços
-
-![Python](https://img.shields.io/badge/Python-Microservices-blue?logo=python)
-
-Projeto da pós-graduação em Engenharia de Software focado na implementação de arquitetura baseada em microsserviços.
-
-🔗  
-https://github.com/eliel2107/MVP-microservicos
-
----
-
-### 🐍 MVP Backend
-
-![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
-
-Backend desenvolvido para aplicação MVP acadêmica responsável pela lógica de negócio e exposição de endpoints.
-
-🔗  
-https://github.com/eliel2107/MVP-BackEnd
-
----
-
-### 🐍 MVP Frontend
-
-![Python](https://img.shields.io/badge/Python-Frontend-blue?logo=python)
-
-Interface desenvolvida para integração com backend do projeto MVP.
-
-🔗  
-https://github.com/eliel2107/MVP-FrontEnd
-
----
-
-### 🤖 ProjetoIA
-
-![Python](https://img.shields.io/badge/Python-AI%20Application-blue?logo=python)
-
-Aplicação interativa utilizando **Streamlit e LangChain** para interação com modelos de IA.
-
-🔗  
-https://github.com/eliel2107/ProjetoIA
-
----
-
-# 📊 Estatísticas GitHub
+## Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true"/>
+[![Minhas skills](https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,mongodb,docker,git,github,postman&theme=dark)](https://skillicons.dev)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eliel2107&theme=tokyonight&hide_border=true"/>
+**Também aplico no dia a dia:** APIs REST · Microsserviços · Clean Code · SOLID ·
+Arquitetura em camadas · Integração com APIs externas · Tratamento de exceções
+
+---
+
+## Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/eliel2107/mvp-apigateway-nasa-java">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=mvp-apigateway-nasa-java&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/eliel2107/mvp-api-observacoesnasa-java">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=mvp-api-observacoesnasa-java&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/eliel2107/Challenge-ApiRestForumHub">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-ApiRestForumHub&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/eliel2107/Challenge-LiterAlura">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliel2107&repo=Challenge-LiterAlura&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| **[API Gateway — Observações NASA](https://github.com/eliel2107/mvp-apigateway-nasa-java)** | A porta de entrada única dos serviços, roteando as chamadas. | Java |
+| **[API de Observações](https://github.com/eliel2107/mvp-api-observacoesnasa-java)** | O serviço de domínio que fica atrás do gateway. | Java |
+| **[Front-End](https://github.com/eliel2107/MVP-FrontEnd-Nasa)** | A interface que consome os dois serviços acima. | Web |
+| **[ForumHub API](https://github.com/eliel2107/Challenge-ApiRestForumHub)** | API REST de tópicos de fórum, com CRUD completo em Spring Boot. | Java · Spring Boot |
+| **[LiterAlura](https://github.com/eliel2107/Challenge-LiterAlura)** | Consome a API Gutendex para buscar livros e explorar autores. | Java |
+| **[MVP Microsserviços](https://github.com/eliel2107/MVP-microservicos)** | A primeira versão da arquitetura, na pós da PUC-Rio. | Python |
+| **[ProjetoIA](https://github.com/eliel2107/ProjetoIA)** | Aplicação interativa com Streamlit e LangChain. | Python |
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eliel2107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliel2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=eliel2107&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,8 +89,8 @@ https://github.com/eliel2107/ProjetoIA
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=eliel2107&color=blue"/>
+**Aberto a oportunidades como Desenvolvedor Back-End.**
 
-💼 **Aberto a oportunidades como Desenvolvedor Back-End**
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-mesquita0799/)
 
 </div>
